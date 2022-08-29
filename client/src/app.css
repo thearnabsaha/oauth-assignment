@@ -1,0 +1,10 @@
+h2{
+    border: 1px solid red;
+    width: 30rem;
+    padding: 1rem;
+    text-align: center;
+    transition: all ease-in-out .3s;
+}
+h2:hover{
+    background-color: aquamarine;
+}
